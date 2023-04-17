@@ -1,2 +1,2 @@
 # freezingchima.github.io
-website
+This is for my IMMEADIATE FAMILY ONLY!
