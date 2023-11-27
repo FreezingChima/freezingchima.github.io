@@ -1,3 +1,0 @@
-# Christmas List
-
-Coming Soon!

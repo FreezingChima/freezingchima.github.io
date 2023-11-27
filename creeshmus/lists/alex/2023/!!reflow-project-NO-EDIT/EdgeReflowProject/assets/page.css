@@ -1,0 +1,133 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(64, 0, 0);
+    background-image:url("img/background.fw.png");
+    background-attachment: fixed;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: 50% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#box {
+    float: none;
+    height: 694px;
+    margin-left: auto;
+    margin-top: 20.6875px;
+    clear: none;
+    width: 1000px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    -webkit-box-shadow: rgb(0, 0, 0) 0px 3px 5px 1px;
+    box-shadow: rgb(0, 0, 0) 0px 3px 5px 1px;
+    background-color: rgb(248, 248, 248);
+}
+
+#image {
+    float: none;
+    width: auto;
+    height: 100px;
+    margin-left: auto;
+    margin-top: 101px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 52.937461%;
+    max-width: 35.743051%;
+}
+
+#text {
+    float: left;
+    font-size: 16px;
+    width: 94.4%;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    margin-left: 2.7%;
+    margin-top: 20px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+    font-style: normal;
+}
+
+#text1 {
+    float: left;
+    font-size: 16px;
+    width: 94.400001%;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    margin-left: 2.7%;
+    margin-top: 17px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+    font-style: normal;
+    display: block;
+    margin-right: 0%;
+}
+
+#text2 {
+    float: left;
+    font-size: 16px;
+    width: 94.400001%;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    margin-left: 2.7%;
+    margin-top: 10px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+    font-style: normal;
+    display: block;
+    margin-right: 0%;
+}
+
+#iframe {
+    float: left;
+    height: 346px;
+    margin-left: 14.7%;
+    margin-top: 18px;
+    clear: both;
+    width: 700px;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    max-width: 68.15%;
+    height: auto;
+    margin-left: 15.471875%;
+    margin-top: 18px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text3 {
+    float: none;
+    font-size: 1em;
+    width: 47.322084%;
+    height: auto;
+    text-align: center;
+    font-weight: 900;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 12px;
+    clear: none;
+    min-height: 52px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    margin-right: auto;
+}
+
